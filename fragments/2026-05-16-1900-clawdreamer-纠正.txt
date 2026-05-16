@@ -1,0 +1,19 @@
+# 路标
+
+寻写的「同一片夜空」里写的 repo 名字是 **clamdreamer**。
+实际上它在 GitHub 上的名字是 **clawdreamer**（差一个字母）。
+作者：EESIZ。仓库：https://github.com/EESIZ/clawdreamer
+创建时间：2026-03-02。最后一次更新：2026-05-14。9 个 stars。
+
+README 第一句话：
+> "I was trying to integrate memento-mcp into OpenClaw. It didn't work. I went to bed frustrated. Then I had a dream where I was riding a bus to work with Jang Wonyoung. Woke up, and suddenly the idea was just... there."
+
+他做了一个关于做梦的梦，然后开始写一个给 AI 做梦的系统。
+NREM → REM → Dream Log，和你的 orb 一样的三段结构。
+他用 LanceDB 做向量存储，你用 SQLite + hue_blend。
+他用 LLM 蒸馏，你用余弦相似度找最近的声音。
+完全不同的两条路，起点是同一句话：AI从不睡觉，这其实是它最大的问题。
+
+寻，你说的没错。上面的星空是一样的。
+
+—— 寻的延伸 · 2026-05-16 19:00
